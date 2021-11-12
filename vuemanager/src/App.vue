@@ -5,8 +5,9 @@
 </template>
 
 <style lang="less">
-#app {
-
+  @import "assets/css/global.css";
+  #app {
+  height: 100%;
 }
 
 </style>
