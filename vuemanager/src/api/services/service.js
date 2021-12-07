@@ -2,6 +2,7 @@ import axios from "axios";
 import { Message } from 'view-design'
 
 const service = axios.create({
+  baseURL: 'https://geniusMarket.top/'
   // timeout: 30000
 });
 

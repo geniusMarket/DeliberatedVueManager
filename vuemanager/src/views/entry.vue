@@ -2,7 +2,7 @@
   <div class="container">
     <bar></bar>
     <div class="menu">
-      <Menu theme="dark" width="auto">
+      <Menu theme="dark" width="auto"  active-name="1">
         <MenuItem name="1" to="/entry/question">
           <Icon type="md-help" />
           提问审核
